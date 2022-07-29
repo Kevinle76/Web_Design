@@ -3,7 +3,7 @@
 
 Data is more powerful when we share it with others! Let's use what we've learned about HTML and CSS to create a dashboard featuring the analysis that we've done, as captured in the following image:
 
-  ![Images/landingResize.png](Images/landingResize.png)
+![Landing page](https://user-images.githubusercontent.com/100891182/181826113-bb8df3e2-a5bf-41a2-a2b9-9b8413165a35.jpeg)
 
 
 ## Instructions 
@@ -80,32 +80,25 @@ Ensure your repository has regular commits and a descriptive `README.md` file.
 
 This section contains screenshots of each page that must be built, at varying screen widths. These are intended as a guide; you can meet the requirements without having the pages match the following images exactly.
 
-#### <a id="landing-page"></a>Landing page
+![Landing page](https://user-images.githubusercontent.com/100891182/181826193-3e8fa02f-8b6a-400f-a5ea-6dd71896b4ec.jpeg)
 
-Large screen:
 
-![Landing page large screen](Images/landingResize.png)
 
-Small screen:
-
-![Landing page small screen](Images/landing-sm.png)
 ￼
 
 #### <a id="comparisons-page"></a>Comparisons page
 
 Large screen:
 
-![comparison page large screen](Images/comparison-lg.png)
+![Comparision](https://user-images.githubusercontent.com/100891182/181826285-7acb33ff-e64d-4fbf-8b76-898d73dcf083.jpeg)
 
-Small screen:
 
-![comparison page small screen](Images/comparison-sm.png)
 
 #### <a id="data-page"></a>Data page
 
 Large screen:
 
-![data page large screen](Images/data-lg.png)
+![Data](https://user-images.githubusercontent.com/100891182/181826340-1dd9dc74-cc84-493e-bb6c-2827a15c6280.jpeg)
 
 
 Small screen:
@@ -132,9 +125,6 @@ Large screen:
 Small screen:
 ![nav menu small screen](Images/nav-sm.png)
 
-## Rubric
-
-[Unit 11 Homework Rubric](https://docs.google.com/document/d/16RJehl9qVOxdj7o7hUwvdlsoyrA_-kaoB8CGwr9LX_Y/edit?usp=sharing)
 
 - - -
 
