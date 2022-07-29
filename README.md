@@ -1,4 +1,4 @@
-# Web-Design-Challenge
+# Web-Design
 ## Background
 
 Data is more powerful when we share it with others! This section will create a dashboard.
@@ -53,7 +53,8 @@ The website consistS of seven pages in total, including:
 * A ["Data" page](#data-page) that displays a responsive table containing the data used in the visualizations.
 
   
-![Data](https://user-images.githubusercontent.com/100891182/181826340-1dd9dc74-cc84-493e-bb6c-2827a15c6280.jpeg)
+![image](https://user-images.githubusercontent.com/100891182/181827865-e4a6e8c1-31f3-406c-b51d-dde0229abcdd.png)
+
 
 
 #### <a id="comparisons-page"></a>Comparisons page
