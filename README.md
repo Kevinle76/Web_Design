@@ -14,9 +14,8 @@ As you build this dashboard, you'll create individual pages for each plot and a 
 
 ### Website Requirements
 
-For reference, review the following ["Screenshots" section](#screenshots). 
 
-The website must consist of seven pages in total, including:
+The website consistS of seven pages in total, including:
 
 * A [landing page](#landing-page) containing the following elements:
 
@@ -56,11 +55,6 @@ At the top of every page, the website must have a navigation menu with the follo
 
 * It should be responsive (using media queries). The navigation bar must be similar to the screenshots in the ["Navigation Menu" section](#navigation-menu) (notice the background color change).
 
-Finally, the website must be deployed to GitHub Pages.
-
-Once finished, submit links to 1) the deployed app and 2) the GitHub repository.
-
-Ensure your repository has regular commits and a descriptive `README.md` file.
 
 ### Considerations
 
@@ -101,32 +95,7 @@ Large screen:
 ![Data](https://user-images.githubusercontent.com/100891182/181826340-1dd9dc74-cc84-493e-bb6c-2827a15c6280.jpeg)
 
 
-Small screen:
 
-![data page small screen](Images/data-sm.png)
-
-#### <a id="visualization-pages"></a>Visualization pages
-
-You'll build four of these, one for each visualization. Here's an example of one visualization page on two different screen sizes:
-
-Large screen:
-
-![visualize page large screen](Images/visualize-lg.png)
-
-Small screen:
-
-![visualize page small screen](Images/visualize-sm.png)
-
-#### <a id="navigation-menu"></a>Navigation menu
-
-Large screen:
-![nav menu large screen](Images/nav-lg.png)
-
-Small screen:
-![nav menu small screen](Images/nav-sm.png)
-
-
-- - -
 
 ## References
 
