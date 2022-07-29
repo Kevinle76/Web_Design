@@ -1,9 +1,7 @@
 # Web-Design-Challenge
 ## Background
 
-Data is more powerful when we share it with others! Let's use what we've learned about HTML and CSS to create a dashboard featuring the analysis that we've done, as captured in the following image:
-
-![Landing page](https://user-images.githubusercontent.com/100891182/181826113-bb8df3e2-a5bf-41a2-a2b9-9b8413165a35.jpeg)
+Data is more powerful when we share it with others! This section will create a dashboard.
 
 
 ## Problems:
@@ -21,6 +19,8 @@ The website consistS of seven pages in total, including:
   * An explanation of the project
 
   * Links to each visualizations page. 
+
+![Landing page](https://user-images.githubusercontent.com/100891182/181826113-bb8df3e2-a5bf-41a2-a2b9-9b8413165a35.jpeg)
 
 * Four [visualization pages](#visualization-pages), stored in the `visualizations` folder, each with the following elements:
 
