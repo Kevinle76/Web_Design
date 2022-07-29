@@ -6,14 +6,13 @@ Data is more powerful when we share it with others! Let's use what we've learned
 ![Landing page](https://user-images.githubusercontent.com/100891182/181826113-bb8df3e2-a5bf-41a2-a2b9-9b8413165a35.jpeg)
 
 
-## Instructions 
+## Problems:
 
-For this homework assignment, we'll create a website by using visualizations that were created in your Python-APIs homework, or you can use the [weather data](Resources/cities.csv) provided.
+We'll create a website by using visualizations that were created in your Python-APIs.
 
-As you build this dashboard, you'll create individual pages for each plot and a way to navigate between them. These pages will contain the visualizations and des. You will also build a landing page to provide a comparison of all the plots, along with another page to present the data used to build them.
+Create individual pages for each plot and a way to navigate between them. These pages will contain the visualizations and des. Build a landing page to provide a comparison of all the plots, along with another page to present the data used to build them.
 
 ### Website Requirements
-
 
 The website consistS of seven pages in total, including:
 
@@ -21,7 +20,7 @@ The website consistS of seven pages in total, including:
 
   * An explanation of the project
 
-  * Links to each visualizations page. There should be a sidebar containing preview images of each plot. Clicking an image should take the user to that visualization.
+  * Links to each visualizations page. 
 
 * Four [visualization pages](#visualization-pages), stored in the `visualizations` folder, each with the following elements:
 
@@ -31,14 +30,26 @@ The website consistS of seven pages in total, including:
 
   * A paragraph describing the plot and its significance.
 
+![Temperature](https://user-images.githubusercontent.com/100891182/181826951-bada7460-a387-4f00-aaf3-99e2bdfa0188.jpeg)
+
+![Humidity](https://user-images.githubusercontent.com/100891182/181827049-a4605f62-1f78-41c8-a73c-6c29a3b03108.jpeg)
+
+
+![Windspeed](https://user-images.githubusercontent.com/100891182/181827082-2913d45e-89be-4074-8973-c940c14982a0.jpeg)
+
+
+
+
+
 * A ["Comparisons" page](#comparisons-page) that does the following:
 
   * Contains all of the visualizations on the same page so they can easily be compared with each other.
+  * 
+![Comparision](https://user-images.githubusercontent.com/100891182/181827017-0a9935f3-7d5a-4f49-a7e6-4bd9759a9278.jpeg)
 
-  * Uses a Bootstrap grid for the visualizations.
-
-    * The grid must be two visualizations across medium and large screens, and it must be one visualization across on extra-small or small screens.
-
+   
+   
+   
 * A ["Data" page](#data-page) that displays a responsive table containing the data used in the visualizations.
 
   * The table must be a Bootstrap table component. Refer to the [Bootstrap documentation](https://getbootstrap.com/docs/4.3/content/tables/#responsive-tables) for how to use responsive tables. 
@@ -54,31 +65,6 @@ At the top of every page, the website must have a navigation menu with the follo
 * It should provide two more text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.
 
 * It should be responsive (using media queries). The navigation bar must be similar to the screenshots in the ["Navigation Menu" section](#navigation-menu) (notice the background color change).
-
-
-### Considerations
-
-* You may use the weather data you collected for the WeatherPy section of your Python-APIs Homework, or you may use the included [cities dataset](Resources/cities.csv) and pull the images from the [assets folder](Resources/assets).
-
-* You must use Bootstrap. This includes using the Bootstrap `navbar` component for the header on every page, the Bootstrap table component for the data page, and the Bootstrap grid for responsiveness on the comparison page.
-
-* You must deploy your website to GitHub Pages, with the website working on a live, publicly accessible URL as a result.
-
-* Make sure to use a CSS media query that uses Bootstrap and/or `@media` for the navigation bar.
-
-* Make sure that your website works at all window widths or sizes.
-
-* Feel free to take some liberty in the visual aspects, but keep the  core functionality the same.
-
-
-
-This section contains screenshots of each page that must be built, at varying screen widths. These are intended as a guide; you can meet the requirements without having the pages match the following images exactly.
-
-![Landing page](https://user-images.githubusercontent.com/100891182/181826193-3e8fa02f-8b6a-400f-a5ea-6dd71896b4ec.jpeg)
-
-
-
-￼
 
 #### <a id="comparisons-page"></a>Comparisons page
 
