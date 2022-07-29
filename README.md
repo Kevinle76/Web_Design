@@ -52,23 +52,13 @@ The website consistS of seven pages in total, including:
    
 * A ["Data" page](#data-page) that displays a responsive table containing the data used in the visualizations.
 
-  * The table must be a Bootstrap table component. Refer to the [Bootstrap documentation](https://getbootstrap.com/docs/4.3/content/tables/#responsive-tables) for how to use responsive tables. 
+  
+![Data](https://user-images.githubusercontent.com/100891182/181826340-1dd9dc74-cc84-493e-bb6c-2827a15c6280.jpeg)
 
-  * The data must come from exporting the `.csv` file as HTML or by converting it to HTML. Try using a tool that you already know: Pandas. Pandas has a method, appropriately called `to_html`, that allows you to generate an HTML table from a Pandas DataFrame. To learn more, review the [documentation](https://pandas.pydata.org/pandas-docs/version/0.17.0/generated/pandas.DataFrame.to_html.html).
-
-At the top of every page, the website must have a navigation menu with the following elements:
-
-* It should have the name of the site on the left of the navigation bar, allowing users to return to the landing page from any page.
-
-* It should contain a dropdown menu on the right of the navigation bar, named "Plots," to provide links to each individual visualization page.
-
-* It should provide two more text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.
-
-* It should be responsive (using media queries). The navigation bar must be similar to the screenshots in the ["Navigation Menu" section](#navigation-menu) (notice the background color change).
 
 #### <a id="comparisons-page"></a>Comparisons page
 
-Large screen:
+
 
 ![Comparision](https://user-images.githubusercontent.com/100891182/181826285-7acb33ff-e64d-4fbf-8b76-898d73dcf083.jpeg)
 
@@ -76,9 +66,8 @@ Large screen:
 
 #### <a id="data-page"></a>Data page
 
-Large screen:
 
-![Data](https://user-images.githubusercontent.com/100891182/181826340-1dd9dc74-cc84-493e-bb6c-2827a15c6280.jpeg)
+
 
 
 
