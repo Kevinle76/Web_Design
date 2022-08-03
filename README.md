@@ -1,14 +1,12 @@
 # Web-Design
 ## Background
 
-Data is more powerful when we share it with others! This section will create a dashboard.
+Creating a website by using visualizations
 
 
-## Problems:
+## Objectives:
 
-We'll create a website by using visualizations that were created in Python-APIs.
-
-Create individual pages for each plot and a way to navigate between them. These pages will contain the visualizations and des. Build a landing page to provide a comparison of all the plots, along with another page to present the data used to build them.
+Creating individual pages for each plot and a way to navigate between them. These pages will contain the visualizations and des. Build a landing page to provide a comparison of all the plots, along with another page to present the data used to build them.
 
 ### Website Requirements
 
